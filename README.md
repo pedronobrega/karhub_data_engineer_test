@@ -5,7 +5,7 @@ O desafio é capturar os dados que recebemos de peças e veículos compatives em
 
 **Sobre os dados**
 
-Disponibilizamos para você os dados de produto e compatibilidade da base de produção KarHub. São três conjuntos de arquivos diferentes
+Disponibilizamos para você os dados de produto e compatibilidade KarHub. São três conjuntos de arquivos diferentes
 
 | Dataset | Descrição      |
 | :---  | :---      |
