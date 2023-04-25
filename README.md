@@ -164,9 +164,9 @@ Exemplo, **de**:
 
 ### Inserir esse dataframe dentro de uma tabela no BigQuery
 Deixamos os dados no jeitinho para que eles possam ser armazenados dentro de uma tabela na nossa base de dados.
-Utilizando a **service account** enviada por email crie a tabela no banco de dados com a seguinte nomenclatura **data-karhub.cadastro_produto.kh_data_engineer_teste_seuNome**
+Utilizando a **service account** enviada por email crie a tabela no banco de dados com a seguinte nomenclatura **karhub-data-engineer-test.cadastro_produto.kh_data_engineer_teste_seuNome**
 
-* **project_id =** data-karhub
+* **project_id =** karhub-data-engineer-test
 * **dataset_id =** cadastro_produto
 * **table_id   =** kh_data_engineer_teste_seuNome
 
