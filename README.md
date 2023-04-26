@@ -178,7 +178,7 @@ Leia sobre: [Nomes de coluna BigQuery](https://cloud.google.com/bigquery/docs/sc
 
 * Quantos **produtos únicos** temos na base?
 * Quantos **veículos únicos** (mesma marca e modelo) temos na base por produto?
-* Quantas **categorias** temos na base por produto?
+* Quantos **produtos únicos** temos na base por categoria ?
 
 ### O que esperamos:
 * Seu projeto deve estar em um repositório **git** com o código em arquivo Python e/ou Jupyter Notebook e os arquivos de *queries* que você utilizou na construção das suas análises.
