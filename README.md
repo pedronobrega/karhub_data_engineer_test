@@ -188,3 +188,18 @@ Leia sobre: [Nomes de coluna BigQuery](https://cloud.google.com/bigquery/docs/sc
 ***Todos os dados de usuário são ficticios gerados para efeito de teste/estudo**
 
 **A má utilização dos dados aqui gerados é de total responsabilidade do usuário. Os dados são gerados de forma aleatória, respeitando as regras de criação de cada documento.**
+
+# Pedro Nobrega
+
+Para executar minhas analise sera necessario:
+
+- Python 3.10.9
+- jupyter-lab
+- requests
+- pandas
+- pandas-gbq
+- google-cloud-bigquery
+
+Esses pacotes podem ser instalados utilizando o pip3
+
+Sera necessario a criacao de um arquivo com a service account com acesso ao projeto `karhub-data-engineer-test` com o nome "service_account.json" na raiz deste repositorio
